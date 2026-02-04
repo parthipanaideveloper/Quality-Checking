@@ -71,7 +71,7 @@ The project addresses a critical issue in the CP-Lab manufacturing process: the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aksh-ay06/Automated-Defect-Detection-System-for-Quality-Assurance-in-Manufacturing
+  git clone https://github.com/parthipanaideveloper/Quality-Checking
    ```
 2. Install required libraries:
    ```bash
@@ -125,4 +125,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Special thanks to the IENG 493C module instructor Mackenzie Keepers and teammates for their guidance and support throughout the project. 
 
-For questions or suggestions, please contact [www.linkedin.com/in/aksh-ay06].
+For questions or suggestions, please contact https://www.linkedin.com/in/parthipan-g-2945432ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
+Portfolio : https://parthipanai.netlify.app
